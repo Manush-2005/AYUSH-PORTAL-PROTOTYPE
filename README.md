@@ -27,15 +27,22 @@ The **AYUSH Startup Registration Portal** is an innovative platform designed to 
 - **Individuals and Startup Founders:** Create accounts, submit applications, and track their registration process in real-time.
 - **AYUSH Officers:** Review submitted applications, provide feedback, and either approve or reject submissions.
 - **Incubators and Investors:** Gain insights into promising startups within the AYUSH sector and track their progress.
+- ![Screenshot 2024-09-06 131945](https://github.com/user-attachments/assets/a3dedb2d-f9e4-4252-8103-32a2345f6e2d)
+
 
 #### 🔄 **User Flow & AYUSH Officer Flow**
 
 - **User:** Registers → Submits application → Tracks progress → Receives approval/rejection → Reapplies (if necessary).
 - **AYUSH Officer:** Logs in → Reviews pending applications → Provides feedback → Approves/rejects applications → Notifies users.
+- ![Screenshot 2024-09-06 132138](https://github.com/user-attachments/assets/f3f9c614-f28d-4586-8948-1189d0f6b5c4)
+- ![Screenshot 2024-09-12 090442](https://github.com/user-attachments/assets/b3dff320-3fad-4652-b2aa-96841dd019bd)
+
+
 
 #### 📚 **Resources**
 
 - A comprehensive **Resource Hub** providing essential **regulatory documents, FAQs**, and **support** for founders looking to register their AYUSH startups. The hub also offers **templates** and guidelines to simplify the submission process.
+  
 
 #### 🌐 **Network Tab**
 

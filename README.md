@@ -20,7 +20,7 @@ The **AYUSH Startup Registration Portal** is an innovative platform designed to 
 
 ---
 
-### 📸 Snippets from the Website
+### 📸 Pages and some snippnets from website
 
 #### 🧑‍💼 **Types of Users**
 
@@ -51,6 +51,8 @@ The **AYUSH Startup Registration Portal** is an innovative platform designed to 
 #### 🏠 **Homepage**
 
 - An elegant and user-friendly homepage that provides quick access to features like **registration, application status tracking, and resources**. New users can register easily, while returning users can log in to check their status.
+- ![image](https://github.com/user-attachments/assets/ece64262-5cce-43dd-b792-26221a3f055e)
+
 
 #### 🖥️ **User Dashboard & AYUSH Officer Dashboard**
 
